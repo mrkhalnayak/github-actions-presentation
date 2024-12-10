@@ -22,9 +22,9 @@ on:
         default: "Tupelo"
         type: choice
         options:
-        - New York
-        - Seattle
-        - Tupelo
+        - Mumbai
+        - Pune
+        - Satna
       fav-color-blue:
         description: "Is your favorite color blue"
         required: true
